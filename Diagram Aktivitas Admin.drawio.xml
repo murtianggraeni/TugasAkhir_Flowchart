@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="32">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="34">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -5814,7 +5814,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Proses Perpanjangan Durasi Peminjaman" id="F3NtNiZ60JhDeV3w8nt2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="2163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mkbdp31ytBPAEP7pRxiR-0" />
         <mxCell id="mkbdp31ytBPAEP7pRxiR-1" parent="mkbdp31ytBPAEP7pRxiR-0" />
@@ -5830,7 +5830,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mkbdp31ytBPAEP7pRxiR-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Login sebagai pengguna&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="mkbdp31ytBPAEP7pRxiR-1" vertex="1">
-          <mxGeometry x="75" y="-1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="-1010" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZXmamsaJaX0dDn4tiExI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mkbdp31ytBPAEP7pRxiR-1" source="ZXmamsaJaX0dDn4tiExI-0" target="ZXmamsaJaX0dDn4tiExI-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -5934,7 +5934,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Proses Pengajuan Peminjaman" id="R-z5PerpSKKXsxvnRjuj">
-    <mxGraphModel dx="2390" dy="3498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="2725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5959,12 +5959,6 @@
         </mxCell>
         <mxCell id="Q-i66mcUTEObLDFmPfwz-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="296.25" y="-1290" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="sybnKeoEOTfrGTaiJtKP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sybnKeoEOTfrGTaiJtKP-4" target="sybnKeoEOTfrGTaiJtKP-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sybnKeoEOTfrGTaiJtKP-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Login sebagai Pengguna&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295.24" y="-2232" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sybnKeoEOTfrGTaiJtKP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sybnKeoEOTfrGTaiJtKP-6" target="sybnKeoEOTfrGTaiJtKP-8">
           <mxGeometry relative="1" as="geometry" />
@@ -6002,7 +5996,7 @@
         <mxCell id="sybnKeoEOTfrGTaiJtKP-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Menampilkan&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;halaman&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;sukses dan&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;i&gt;pop up&lt;/i&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;peminjaman berhasil&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="261.25" y="-1509" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sybnKeoEOTfrGTaiJtKP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sybnKeoEOTfrGTaiJtKP-22" target="sybnKeoEOTfrGTaiJtKP-4">
+        <mxCell id="WKid5QaJFRNDqv62PySU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sybnKeoEOTfrGTaiJtKP-22" target="WKid5QaJFRNDqv62PySU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sybnKeoEOTfrGTaiJtKP-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -6023,6 +6017,12 @@
         </mxCell>
         <mxCell id="sybnKeoEOTfrGTaiJtKP-32" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Menampilkan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i&gt;pop up&lt;/i&gt; peringatan&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ketidaksesuaian data&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;atau ketidaktersediaan jadwal&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="-1647.75" width="190" height="99.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WKid5QaJFRNDqv62PySU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WKid5QaJFRNDqv62PySU-1" target="sybnKeoEOTfrGTaiJtKP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WKid5QaJFRNDqv62PySU-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Login sebagai Pengguna&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262.75" y="-2225" width="185" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -6129,6 +6129,88 @@
         </mxCell>
         <mxCell id="ACTbwGcUrZ3OQzNLfNEX-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Menampilkan pop up gagal ter&lt;i&gt;export&lt;/i&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="652.49" y="-887" width="190" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Uy0i9wkv6YRX0Ir2UC2b" name="Proses Memantau Status Penggunaan Mesin">
+    <mxGraphModel dx="1434" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j7MIrdveLOQ-QyJ4FSV--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7MIrdveLOQ-QyJ4FSV--1" target="j7MIrdveLOQ-QyJ4FSV--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7MIrdveLOQ-QyJ4FSV--1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-1120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j7MIrdveLOQ-QyJ4FSV--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7MIrdveLOQ-QyJ4FSV--2" target="j7MIrdveLOQ-QyJ4FSV--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7MIrdveLOQ-QyJ4FSV--2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Login sebagai Admin&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1010" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7MIrdveLOQ-QyJ4FSV--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7MIrdveLOQ-QyJ4FSV--3" target="j7MIrdveLOQ-QyJ4FSV--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7MIrdveLOQ-QyJ4FSV--3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Menampilkan halaman utama administrator&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40.010000000000005" y="-920" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7MIrdveLOQ-QyJ4FSV--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7MIrdveLOQ-QyJ4FSV--6" target="j7MIrdveLOQ-QyJ4FSV--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j7MIrdveLOQ-QyJ4FSV--6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Melihat status penggunaan mesin pada menu Status Penggunaan Mesin berdasarkan card masing-masing mesin&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-829" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="j7MIrdveLOQ-QyJ4FSV--8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75.01" y="-700" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Proses Melihat Riwayat Penggunaan Mesin pada Admin" id="KYK-KmlK18Alanxrdjxk">
+    <mxGraphModel dx="1434" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Yy0S7zNJCBMaUTn_WI1z-0" />
+        <mxCell id="Yy0S7zNJCBMaUTn_WI1z-1" parent="Yy0S7zNJCBMaUTn_WI1z-0" />
+        <mxCell id="Yy0S7zNJCBMaUTn_WI1z-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Yy0S7zNJCBMaUTn_WI1z-1" source="Yy0S7zNJCBMaUTn_WI1z-3" target="Yy0S7zNJCBMaUTn_WI1z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yy0S7zNJCBMaUTn_WI1z-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Yy0S7zNJCBMaUTn_WI1z-1">
+          <mxGeometry x="75" y="-1120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yy0S7zNJCBMaUTn_WI1z-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Yy0S7zNJCBMaUTn_WI1z-1" source="Yy0S7zNJCBMaUTn_WI1z-5" target="Yy0S7zNJCBMaUTn_WI1z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yy0S7zNJCBMaUTn_WI1z-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Login sebagai Admin&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Yy0S7zNJCBMaUTn_WI1z-1">
+          <mxGeometry x="40" y="-1010" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yy0S7zNJCBMaUTn_WI1z-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Yy0S7zNJCBMaUTn_WI1z-1" source="Yy0S7zNJCBMaUTn_WI1z-7" target="Yy0S7zNJCBMaUTn_WI1z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yy0S7zNJCBMaUTn_WI1z-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Menampilkan halaman utama administrator&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="Yy0S7zNJCBMaUTn_WI1z-1">
+          <mxGeometry x="40.010000000000005" y="-920" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zyoL4qn8E35SByAjJKyY-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Yy0S7zNJCBMaUTn_WI1z-1" source="Yy0S7zNJCBMaUTn_WI1z-9" target="zyoL4qn8E35SByAjJKyY-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yy0S7zNJCBMaUTn_WI1z-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Melihat menu Monitoring Penggunaan Mesin&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Yy0S7zNJCBMaUTn_WI1z-1">
+          <mxGeometry x="40" y="-829" width="190" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="Yy0S7zNJCBMaUTn_WI1z-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Yy0S7zNJCBMaUTn_WI1z-1">
+          <mxGeometry x="75.01" y="-540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zyoL4qn8E35SByAjJKyY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Yy0S7zNJCBMaUTn_WI1z-1" source="zyoL4qn8E35SByAjJKyY-0" target="zyoL4qn8E35SByAjJKyY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyoL4qn8E35SByAjJKyY-0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Memilih card Monitoring Mesin berdasarkan mesin yang ingin dipantau&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Yy0S7zNJCBMaUTn_WI1z-1">
+          <mxGeometry x="40.01" y="-740" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zyoL4qn8E35SByAjJKyY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Yy0S7zNJCBMaUTn_WI1z-1" source="zyoL4qn8E35SByAjJKyY-5" target="Yy0S7zNJCBMaUTn_WI1z-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zyoL4qn8E35SByAjJKyY-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Menampilkan data riwayat penggunaan mesin&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="Yy0S7zNJCBMaUTn_WI1z-1">
+          <mxGeometry x="40.010000000000005" y="-640" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
