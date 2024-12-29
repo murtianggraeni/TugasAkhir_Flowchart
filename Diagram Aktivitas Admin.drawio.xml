@@ -6127,7 +6127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ACTbwGcUrZ3OQzNLfNEX-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Menampilkan pop up berhasil ter&lt;i&gt;export&lt;/i&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="ACTbwGcUrZ3OQzNLfNEX-47" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Menampilkan pop up gagal ter&lt;i&gt;export&lt;/i&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="652.49" y="-887" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
