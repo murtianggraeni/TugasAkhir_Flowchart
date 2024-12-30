@@ -6271,56 +6271,20 @@
         <mxCell id="H5UnN1Li3QgMdEw12Bji-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Menampilkan halaman utama pengguna&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="H5UnN1Li3QgMdEw12Bji-1">
           <mxGeometry x="40.010000000000005" y="-920" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H5UnN1Li3QgMdEw12Bji-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H5UnN1Li3QgMdEw12Bji-1" source="H5UnN1Li3QgMdEw12Bji-9" target="H5UnN1Li3QgMdEw12Bji-12">
+        <mxCell id="x4HEblIgubuH3Y66tsvg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H5UnN1Li3QgMdEw12Bji-1" source="H5UnN1Li3QgMdEw12Bji-9" target="H5UnN1Li3QgMdEw12Bji-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H5UnN1Li3QgMdEw12Bji-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Pengguna memilih halaman Status&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="H5UnN1Li3QgMdEw12Bji-1">
           <mxGeometry x="40" y="-829" width="190" height="59" as="geometry" />
         </mxCell>
         <mxCell id="H5UnN1Li3QgMdEw12Bji-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="H5UnN1Li3QgMdEw12Bji-1">
-          <mxGeometry x="75" y="-310" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="H5UnN1Li3QgMdEw12Bji-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H5UnN1Li3QgMdEw12Bji-1" source="H5UnN1Li3QgMdEw12Bji-12" target="H5UnN1Li3QgMdEw12Bji-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H5UnN1Li3QgMdEw12Bji-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Admin memilih card Monitoring Mesin berdasarkan mesin yang ingin dipantau&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="H5UnN1Li3QgMdEw12Bji-1">
-          <mxGeometry x="40.01" y="-740" width="190" height="80" as="geometry" />
+          <mxGeometry x="75" y="-580" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H5UnN1Li3QgMdEw12Bji-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H5UnN1Li3QgMdEw12Bji-1" source="H5UnN1Li3QgMdEw12Bji-14" target="H5UnN1Li3QgMdEw12Bji-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H5UnN1Li3QgMdEw12Bji-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Menampilkan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;indikator terkoneksi,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;dan data riwayat penggunaan mesin secara&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;keseluruhan&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="H5UnN1Li3QgMdEw12Bji-1">
-          <mxGeometry x="40.01" y="-490" width="190" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="H5UnN1Li3QgMdEw12Bji-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H5UnN1Li3QgMdEw12Bji-1" source="H5UnN1Li3QgMdEw12Bji-19" target="H5UnN1Li3QgMdEw12Bji-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H5UnN1Li3QgMdEw12Bji-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Ya&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5UnN1Li3QgMdEw12Bji-15">
-          <mxGeometry x="-0.4959" y="-2" relative="1" as="geometry">
-            <mxPoint x="21" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H5UnN1Li3QgMdEw12Bji-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H5UnN1Li3QgMdEw12Bji-1" source="H5UnN1Li3QgMdEw12Bji-19" target="H5UnN1Li3QgMdEw12Bji-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H5UnN1Li3QgMdEw12Bji-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Tidak&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H5UnN1Li3QgMdEw12Bji-17">
-          <mxGeometry x="-0.7176" y="4" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H5UnN1Li3QgMdEw12Bji-19" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Apakah aplikasi terkoneksi dengan server?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="H5UnN1Li3QgMdEw12Bji-1">
-          <mxGeometry x="54.99" y="-630" width="160.01" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="H5UnN1Li3QgMdEw12Bji-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H5UnN1Li3QgMdEw12Bji-1" source="H5UnN1Li3QgMdEw12Bji-21" target="H5UnN1Li3QgMdEw12Bji-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="385" y="-340" />
-              <mxPoint x="135" y="-340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H5UnN1Li3QgMdEw12Bji-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Menampilkan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;indikator tidak&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;terkoneksi, dan data riwayat penggunaan kosong&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="H5UnN1Li3QgMdEw12Bji-1">
-          <mxGeometry x="290" y="-490" width="190" height="110" as="geometry" />
+        <mxCell id="H5UnN1Li3QgMdEw12Bji-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Menampilkan data&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;riwayat peminjaman pengguna&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="H5UnN1Li3QgMdEw12Bji-1">
+          <mxGeometry x="40" y="-740" width="190" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
