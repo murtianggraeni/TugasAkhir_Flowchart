@@ -3215,7 +3215,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vOItwitLTBLlJ-646HjB" name="Sistem Integrasi">
-    <mxGraphModel dx="1687" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6452,7 +6452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Salinan Use Case" id="TnJKAN2337qa_m28M8jW">
-    <mxGraphModel dx="2390" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hFL6cOT4qzOUgXGUlfm9-0" />
         <mxCell id="hFL6cOT4qzOUgXGUlfm9-1" parent="hFL6cOT4qzOUgXGUlfm9-0" />
@@ -7008,7 +7008,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Proses Mengaktifkan Peminjaman" id="xI1o5TdOfjF8MMML6XJ9">
-    <mxGraphModel dx="2049" dy="2163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7181,7 +7181,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Proses Memverifikasi Pengajuan Peminjaman" id="SrbOpRb10te78HFs6NRU">
-    <mxGraphModel dx="966" dy="2039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7426,7 +7426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Salinan Proses Perpanjangan Durasi Peminjaman" id="xHRs4h7BJ1a4WILHj8vT">
-    <mxGraphModel dx="1434" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XVlGASnX9XsIs9wcDfiv-0" />
         <mxCell id="XVlGASnX9XsIs9wcDfiv-1" parent="XVlGASnX9XsIs9wcDfiv-0" />
@@ -7649,7 +7649,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Salinan Proses Pengajuan Peminjaman" id="kUg1m7b5rIZgFcPqPusL">
-    <mxGraphModel dx="2206" dy="3409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EaLYliwKQeGgfS_TU4rb-0" />
         <mxCell id="EaLYliwKQeGgfS_TU4rb-1" parent="EaLYliwKQeGgfS_TU4rb-0" />
@@ -7761,7 +7761,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Proses Mengeksport Data" id="c7cN4nu1Fm3z3j0wVd7F">
-    <mxGraphModel dx="3585" dy="2909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7973,7 +7973,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Salinan Proses Mengeksport Data" id="E82eRsRy_iWgfoyCtomP">
-    <mxGraphModel dx="235" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="u-V8-o5YlDkcW3SCTpgz-0" />
         <mxCell id="u-V8-o5YlDkcW3SCTpgz-1" parent="u-V8-o5YlDkcW3SCTpgz-0" />
@@ -8439,7 +8439,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aVaQ2sFd59NmE03C4o_v" name="Proses Memantau Status Peminjaman">
-    <mxGraphModel dx="1793" dy="2039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
